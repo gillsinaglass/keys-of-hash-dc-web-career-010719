@@ -8,5 +8,4 @@ class Hash
       end
     end
     return array
-  end
 end
